@@ -1,2 +1,4 @@
 # Internet Services
-* test
+- Marco Neuschwander
+- Kate Falco
+- Janis Müller
