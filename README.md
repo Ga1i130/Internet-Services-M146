@@ -17,3 +17,6 @@ This Proje#ct was started as part of the Module 146 at TBZ. At this Modul we've 
 ---
 ## Issues
 
+- Storage on my virtual disc was firstly scaled by 10 GB afterwards i've added a second vhd with about 64 Gb storage to fight against boot errors. 
+quote: Add enough Storage at the first time.
+improvements: Add a dedicated HDD to store the repos for the mirror
