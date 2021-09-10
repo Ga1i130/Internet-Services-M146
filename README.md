@@ -5,7 +5,7 @@
 ### This README.md file is used by this Group to Note down all information related to the Internet Services Project.
 ---
 # Project Explanation 
-This Proje#ct was started as part of the Module 146 at TBZ. At this Modul we've got the Job to make a Project aboute the Topic "Internet Services".
+This Project was started as part of the Module 146 at TBZ. In this Modul we've got the Job to make a Project aboute the Topic "Internet Services".
 ---
 ---
 ---
@@ -20,3 +20,6 @@ This Proje#ct was started as part of the Module 146 at TBZ. At this Modul we've 
 - Storage on my virtual disc was firstly scaled by 10 GB afterwards i've added a second vhd with about 64 Gb storage to fight against boot errors. 
 quote: Add enough Storage at the first time.
 improvements: Add a dedicated HDD to store the repos for the mirror
+- due to the Additon of the second vhd i was forced to re isntall the unix enviroment wit more storage.
+
+
