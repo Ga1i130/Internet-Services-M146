@@ -22,4 +22,7 @@ quote: Add enough Storage at the first time.
 improvements: Add a dedicated HDD to store the repos for the mirror
 - due to the Additon of the second vhd i was forced to re isntall the unix enviroment wit more storage.
 
+### Why not to use Azure VM's
+As a second try, follwing the Virtual Box VM', we've tried to use Azure Virtual 
+
 
