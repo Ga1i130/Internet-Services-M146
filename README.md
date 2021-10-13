@@ -15,20 +15,12 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 
 
 [2. WAN-Technologie](Theorie/WAN-Technologie.md "2. WAN-Technologie")
-   - Beschreibung: Welche Funktionen wird der Service erfuellen
-   - Vorgesehener Zeitaufwand für die Realisierung
-   - Stolpersteine
+
 
 [3. Internetservices](Theorie/Internetservices.md  "3. Internetservices" )
-   - Hardware (Materialliste, Funktionalitaet)
-   - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
-	hängigkeiten, Funktionalitaet)
-	
+
 	
 [4. Sicherheit](Theorie/Sicherheit.md "4. Sicherheit")
-   - Anweisungen verstaendlich und nachvollziehbar
-   - Keine fertigen Loesungsschritte aufzeigen
-   - Hilfestellung (Tipps, Quellen...)
 
 [5. Wartung / Überwachung](Theorie/Wartung.md "5. Wartung / Überwachung")
 
