@@ -52,7 +52,6 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 ---
 # Präsentation: 
 Hier einfügen 
-
 ## Composition
 - Virtual Box
 - Ubuntu Sever LTS 20.04.2 AMD whit User Interface
