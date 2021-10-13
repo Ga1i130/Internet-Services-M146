@@ -36,7 +36,7 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 
 [7. VPN](Theorie/VPN.md "7. VPN")
 
-[8. Quellen](Lizenz.md "8. Lizenzen" )
+[8. Quellen](Theorie/Quellen.md "8. Quellen" )
  
 
 # Inhaltsverzeichnis Vertiefungsthema: 
