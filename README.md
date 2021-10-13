@@ -44,11 +44,11 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 # Inhaltsverzeichnis Vertiefungsthema: 
 ### [1. Auftrag](Vertiefungsthema/Auftrag.md "1. Auftrag")
 
-### [2. Berechnungsbeispiel](Vertiefungsarbeit/Berechnungsbeispiel.md  "2. Berechnungsbeispiel")
+### [2. Berechnungsbeispiel](Vertiefungsthema/Berechnungsbeispiel.md  "2. Berechnungsbeispiel")
 
-### [3. Dokumentation](Vertiefungsarbeit/Dokumentation.md "3. Dokumentation")
+### [3. Dokumentation](Vertiefungsthema/Dokumentation.md "3. Dokumentation")
 
-### [4. Quellen](TVertiefungsarbeit/Quellen.md "4. Quellen" )
+### [4. Quellen](Vertiefungsthema/Quellen.md "4. Quellen" )
 ---
 # Präsentation: 
 Hier einfügen 
