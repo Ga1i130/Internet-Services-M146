@@ -42,7 +42,17 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 --- 
 
 # Inhaltsverzeichnis Vertiefungsthema: 
+### [1. Auftrag](Vertiefungsthema/Auftrag.md "1. Auftrag")
+
+### [2. Berechnungsbeispiel](Vertiefungsarbeit/Berechnungsbeispiel.md  "2. Berechnungsbeispiel")
+
+### [3. Dokumentation](Vertiefungsarbeit/Dokumentation.md "3. Dokumentation")
+
+### [4. Quellen](TVertiefungsarbeit/Quellen.md "4. Quellen" )
 ---
+# Präsentation: 
+Hier einfügen 
+
 ## Composition
 - Virtual Box
 - Ubuntu Sever LTS 20.04.2 AMD whit User Interface
