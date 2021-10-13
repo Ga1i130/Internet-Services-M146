@@ -1,4 +1,4 @@
-# 1. Übertragunsrate, Verfügbarkeit 
+# Übertragunsrate, Verfügbarkeit 
 ---
 Welche Übertragungsrate wäre für diese Anwendungen geeignet?
 Untersuchen Sie diese Frage unter der Annahme, dass die Server wie bisher beim Provider stehen und was sich an den Anforderungen verändern würde, wenn die Server bei der Firma intern betrieben würden.
