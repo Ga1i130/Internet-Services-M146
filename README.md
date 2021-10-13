@@ -5,9 +5,9 @@
 
 ## Teammitglieder: 
 ```diff
-- Marco Neuschwander
-- Kate Falco
-- Janis Müller
+Marco Neuschwander
+Kate Falco
+Janis Müller
 ```
 ---
 ## Einleitung: 
