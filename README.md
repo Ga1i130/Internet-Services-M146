@@ -14,27 +14,27 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 [1. Übertragunsrate, Verfügbarkeit](Theorie/Übertragunsrate.md "1. Übertragunsrate, Verfügbarkeit")
 
 
-[2. WAN-Technologie](Einfuehrung.md "2. Einfuehrung ")
+[2. WAN-Technologie](Theorie/WAN-Technologie.md "2. WAN-Technologie")
    - Beschreibung: Welche Funktionen wird der Service erfuellen
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
 
-[3. Internetservices](Hardware.md  "3. Benoetigte Hard- und Software" )
+[3. Internetservices](Theorie/Internetservices.md  "3. Internetservices" )
    - Hardware (Materialliste, Funktionalitaet)
    - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
 	hängigkeiten, Funktionalitaet)
 	
 	
-[4. Sicherheit](Installationsanleitung.md "4. Installationsanleitung")
+[4. Sicherheit](Theorie/Sicherheit.md "4. Sicherheit")
    - Anweisungen verstaendlich und nachvollziehbar
    - Keine fertigen Loesungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
-[5. Wartung / Überwachung](Qualitaetskontrolle.md "5. Qualitaetskontrolle")
+[5. Wartung / Überwachung](Theorie/Wartung.md "5. Wartung / Überwachung")
 
-[6. Firewall](Error-Handling.md  "6. Error-Handling ")
+[6. Firewall](Theorie/Firewall.md  "6. Firewall")
 
-[7. VPN](Quellen.md "7. Quellen")
+[7. VPN](Theorie/VPN.md "7. VPN")
 
 [8. Quellen](Lizenz.md "8. Lizenzen" )
  
