@@ -1,1 +1,0 @@
-Übertragunsrate, Verfügbarkeit 
