@@ -11,7 +11,7 @@ This Project was started as part of the Module 146 at TBZ. In this Modul we've g
 ---
 # Inhaltsverzeichnis Theorie: 
 -------------------
-[1. Übertragunsrate, Verfügbarkeit](Übertragunsrate.md "1. Übertragunsrate, Verfügbarkeit")
+[1. Übertragunsrate, Verfügbarkeit](Theorie/Übertragunsrate.md "1. Übertragunsrate, Verfügbarkeit")
 
 
 [2. WAN-Technologie](Einfuehrung.md "2. Einfuehrung ")
