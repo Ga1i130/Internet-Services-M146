@@ -12,6 +12,7 @@ Wenn die Server beim Provider stehen würden wir empfehlen eine Übertragungsrat
 *Die Server stehen in der Firma:*
  
  Auch in diesem, wohl eher viel dringender wäre es empfehlenswert auf einen Glasfaseranschluss zu wechseln. Hier wäre ebenfalls 1 Gbit/s schnelles Internet empfehlenswert. Wie bereits erwähnt wissen wir nicht was alles auf den Servern selbst läuft, aber je nachdem wie viele Webapplikationen darauf laufen, könnte es ebenfalls sein, dass sogar ein 10 Gbit/s schneller Internetanschluss zu empfehlen wäre, damit auch alle Benutzer genug schnelles Internet haben und die Webapplikationen und der Webshop in einer vernünftigen Geschwindigkeit laufen können. Ebenfalls sollte noch eine Firewall installiert und eingerichtet werden, damit die Sicherheit verstärkt wird.
+![Glasfaser](https://user-images.githubusercontent.com/89446428/137597124-463ce118-5f5d-4800-8de4-0b3c3e2cdc8e.png)
 
 ### Welcher Verfügbarkeit müsste Ihre Anbindung ans Internet haben?
 *Untersuchen Sie diese Frage unter der Annahme, dass ein Ausfall von 10 Stunden tolerierbar wäre und als zweiten Fall, dass ein Ausfall von 4 Stunden bereits untolerierbar wäre. Beachten Sie die Arbeitszeiten.*
@@ -40,3 +41,5 @@ Eintscheidungsmatrix einfügen:
 3. Quickline hat viele verschiedene Verträge, die alle sehr kostenstark sind und ein gutes Preis/Leistung Verhältnis bieten
  
 4. Sunrise bietet, sowie Swisscom auch, nicht das beste Preis/Leistung Verhältnis, da bei Sunrise die Preise ebenfalls sehr hoch sind, für das was geboten wird
+
+![Entscheidungsmatrix](https://user-images.githubusercontent.com/89446428/137597126-09b8754f-7204-46e3-9775-d186c0f0aecd.png)
