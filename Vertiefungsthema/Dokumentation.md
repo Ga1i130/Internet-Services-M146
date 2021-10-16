@@ -53,7 +53,18 @@ Auf den Clientsystemen muss jetzt nur noch der neue Server eingetragen werden. D
 
 ### Fehler die wir hatten
 
-Wir hatten eigentlich nur einen Fehler nämlich das wir nicht genug Speicherplatz hatten, es benötigt ca 220Gb wir empfehlen deshalb eine Festplattengrösse von ca. 300GB. So ist dann auch noch genügen Platz da bei zukünftigen Updates noch date hinzukommen werden
+Wir hatten eigentlich nur einen Fehler nämlich das wir nicht genug Speicherplatz hatten, es benötigt ca 220Gb wir empfehlen deshalb eine Festplattengrösse von ca. 300GB. So ist dann auch noch genügen Platz da bei zukünftigen Updates noch date hinzukommen werden.
+
+### Issue: 
+
+- Storage on my virtual disc was firstly scaled by 10 GB afterwards i've added a second vhd with about 64 Gb storage to fight against boot errors. 
+quote: Add enough Storage at the first time.
+
+improvements: Add a dedicated HDD to store the repos for the mirror
+
+- due to the Additon of the second vhd i was forced to re isntall the unix enviroment wit more storage.
+
+
 
 
 
