@@ -1,6 +1,6 @@
 # Auftrag
 ---
-### Folgende Ziele sind zu erreichen:*
+### Folgende Ziele sind zu erreichen:
 
 -Funktionierendes archive mirrorfür eine Linux Distribution (Ubuntu oder Debian)aufgesetzt.
 
