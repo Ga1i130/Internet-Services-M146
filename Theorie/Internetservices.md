@@ -12,8 +12,8 @@ Solche Angebote sollen sich dann von Shared Servern absetzen. Ob die Performanz 
 - *Services beim Provider (Shared hosting)*
 Shared Hosting ist laut Definition ein Webhosting-Modell, bei dem eine Vielzahl von Websites auf einen gemeinsamen Pool von Server-Ressourcen zurückgreift. Dabei werden Speicherkapazität, RAM und CPU der physischen Maschine, die als Hosting-Grundlage dient, auf die Gesamtheit der Nutzer aufgeteilt. Jede Website auf einem Shared Server lässt sich über eine individuelle Domain aufrufen und ist auf einer eigenen Partition des Festplattenspeichers abgelegt. So können trotz geteilter Hardware-Plattform voneinander abgeschirmte Projekte unterschiedlicher Nutzer realisiert werden. Als günstigste Hosting-Variante, wird das Shared Hosting meistens von kleinen Firmen, in Ihren Anfängen, genutzt. 
 
-*Nehmen Sie dafür für 2 Fälle einige Eckdaten an (z.B. Speicherplatz, Traffic, Dienste, …). 
-- *Erstens eine einfache Webpräsenz zu Werbezwecken und Mail*
+*Nehmen Sie dafür für 2 Fälle einige Eckdaten an (z.B. Speicherplatz, Traffic, Dienste, …)*
+- Erstens eine einfache Webpräsenz zu Werbezwecken und Mail
 Wenn man davon ausgeht das diese Firma eine Start Up ist (10 Mitarbeiter), mit wenig Speicherplatz und wegen den 10 Mitarbeiter nur sehr begrenzter Traffic verfügt. Da durch die einfache Webpräsenz auch nicht viele Dienste gebraucht werden, würden wir folgendes empfehlen: 
 
 Ein Shared Hosting, weil es Nutzer ermöglicht, sich so vollkommen auf die Ziele ihres Webprojekts zu konzentrieren. Darüber hinaus kommen viele Shared-Hosting-Anbieter ihren Kunden mit übersichtlichen Konfigurationstools entgegen. Ein weiteres Plus ist es, das die kosten hier am niedrigsten sind. Als Nachteil des Shared Hosting geht zwangsläufig mit einer eingeschränkten Hardware-Nutzung einher. Da sämtliche Server-Ressourcen unter allen gehosteten Websites aufgeteilt werden, steht den Nutzern dieses Hosting-Modells nur ein Teil der gesamten Serverleistung zur Verfügung. 
@@ -24,7 +24,7 @@ Generell könnte man einen Root-Server in Betracht ziehen, da man dabei einen ei
 
 Im Fazit, wenn es das Budget des Kunden zulässt, würden wir eher zu einem Root Server tendieren, da man dort einfach mehr Optionen hat. Hat der Kunde jedoch ein eher Begrenztes Budget, würde sich das Shared Hosting im Preis/Leitungsvergleich mehr lohnen. 
 
-- *Zweitens eine komplexe Datenbankanwendung mit PHP für den Kundenzugriff.* 
+- Zweitens eine komplexe Datenbankanwendung mit PHP für den Kundenzugriff.
 Hier gehen wir davon aus das, die Firma mit rund 100 Mitarbeiter 24/7 auf die Server zugreifen müssen. Die komplexe PHP-Datenbankanwendung beansprucht viel Speicherplatz. Die Firma ist seit Längerem in der Hotel-Branche und verfügt über mehrere Standorte, dazu sind sie bereit mehr Geld für (Ausfall)Sicherheit auszugeben. 
 
 Mit einem Shared Hosting würde der Kunde hier wahrscheinlich nicht zufrieden sein, weil die Hardwarenutzung hier beschränkt wird. Zudem sind des Zugriffes und Verwaltungsoptionen beschränkt, was in unserem Fall gar nicht gut wäre. 
