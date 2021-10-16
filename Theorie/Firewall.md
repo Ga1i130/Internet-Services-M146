@@ -3,10 +3,10 @@
 ### Vergleichen Sie für einen Internetanschluss folgende Firewall-Lösungen:  
 
 - *Günstige Hardware-Firewalls (Cisco-ASA, Zyxel Zywall oder ähnliche)* 
-- 
+ 
 Eine Firewall ist essentiell und es ist nur eine Frage der Zeit bis ein ungebetener Gast sich im eigenen Netzwerk umschaut, es führt also kein Weg an einer Firewall vorbei. Es gibt drei Arten von Firewall lösungen: Hardware-Firewalls, PC Lösungen und Firewall Services vom eigenen Provider z.B. Diese werden hier anschliessend verglichen. 6.1.Günstige Hardware-Firewalls Palo Alto ist im Bereich Netzwerksicherheit eine der Marktführenden Firmen. Es gibt sehr viele unterschiedliche Firewall Lösungen welche sie anbieten, für KMUs und Enterprise. Ich empfehle die PA-3020 Firewall. Diese NGFW hat einen Durchsatz von über 2 Gbit/s, unterstützt mehrere VLANs, und bietet eine eigene VPN Lösung.
 
-*Anforderungen*
+### *Anforderungen*
 Glasfaser Kabel
 
 *Optional*
@@ -16,7 +16,7 @@ Serverrack
 
 OPNsense ist eine Open Source Firewall Lösung welche für FreeBSD entwickelt wurde und somit auch auf Linux läuft. Es werden Multi WAN, VPN, 2FA und viele weitere nützliche Features unterstützt. Der grosse Vorteil an OPNsense ist, dass es Open Source ist und es sich so zu 100% auf eigene Bedürfnisse anpassen. Ausserdem bietet OPNsense wöchentliche kostenlose Sicherheitsupdates.
 
-*Anforderungen*
+### *Anforderungen*
 - Server mit FC Anschluss
 - Glasfaser Kabel
 - Linux als OS
