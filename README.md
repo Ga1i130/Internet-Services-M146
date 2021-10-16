@@ -11,7 +11,9 @@ Janis Müller
 ```
 ---
 ## Einleitung: 
-Hier kommt die Einleitung.
+Das hier ist eine Dokumentation zu dem Thema Internetservices, bearbeitet wird das in dem Modul 146 in der TBZ Zürich. Bei dem zuständigen Lehrer Herr Albrecht. 
+Wobei das Projekt in kleinen (3er-Gruppen) durchgeführt wird. Die Arbeit wird in zwei Teilen Unterteilt, in einen Theorie Teil und einer Vertiefungsarbeit. 
+WObei jeder Gruppe eine andere Arbeit zugewiesen wird. Unserer Gruppe wurde das Thema "Internetservices" zugeteilt. 
 
 ### Project Explanation 
 This Project was started as part of the Module 146 at TBZ. In this Modul we've got the Job to make a Project aboute the Topic "Internet Services".
