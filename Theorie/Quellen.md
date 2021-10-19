@@ -6,3 +6,4 @@ https://de.ryte.com/wiki/
 
 https://www.ionos.de/digitalguide/server/knowhow/
 
+Alle anderen Klassenmitglieder 
